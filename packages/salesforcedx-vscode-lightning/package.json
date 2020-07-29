@@ -26,6 +26,7 @@
   "dependencies": {
     "@salesforce/aura-language-server": "3.0.2",
     "@salesforce/lightning-lsp-common": "3.0.2",
+    "@salesforce/lwc-language-server": "3.0.2",
     "@salesforce/salesforcedx-utils-vscode": "49.3.0",
     "vscode-extension-telemetry": "0.0.17",
     "vscode-languageclient": "^5.2.1"
